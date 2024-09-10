@@ -8,3 +8,9 @@
 ********************
 
 <img width="1642" alt="image" src="https://github.com/user-attachments/assets/ef264d1f-e731-414d-a181-322d35e64351">
+
+## 0x02 使用脚本
+
+<img width="1718" alt="image" src="https://github.com/user-attachments/assets/bda9766d-7f66-40b7-ab01-fbcfb4370b20">
+
+<img width="1418" alt="image" src="https://github.com/user-attachments/assets/98f1700d-021f-47d2-af31-ec4efaf93e21">
