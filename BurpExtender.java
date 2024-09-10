@@ -111,7 +111,7 @@ public class BurpExtender extends AbstractTableModel implements IBurpExtender, I
                 JPanel jps=new JPanel();
                 jps.setLayout(new GridLayout(11, 1)); //六行一列
                 JLabel jls=new JLabel("插件名：瞎解 author：算命縖子");    //创建一个标签
-                JLabel jls_1=new JLabel("奇安信-深圳安服专用");    //创建一个标签
+                JLabel jls_1=new JLabel("blog:www.nmd5.com");    //创建一个标签
                 JLabel jls_2=new JLabel("版本：xia Jie V1.0");    //创建一个标签
                 JLabel jls_3=new JLabel("感谢名单：Moonlit");    //创建一个标签
 
