@@ -8,7 +8,8 @@
 * 通常用于自动化流量加密或解密
 * 对burp的 请求包 和 响应包 用python完全自定义修改数据包的流量
 ********************
-![image](https://github.com/user-attachments/assets/6db2e535-939d-4c2d-aafc-331efdba1c8a)
+![image](https://github.com/user-attachments/assets/646c486b-497b-454e-9d77-ab4195266697)
+
 
 
 ## 0x01 界面截图
