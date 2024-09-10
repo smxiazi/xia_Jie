@@ -22,3 +22,24 @@
 
 
 <img width="1418" alt="image" src="https://github.com/user-attachments/assets/98f1700d-021f-47d2-af31-ec4efaf93e21">
+
+很多网站不是全部加密的，所以有些数据包需要解密or加密，需要多写几个if判断，哪些需要解密or解密 哪些不用
+
+比如：
+
+<img width="1249" alt="image" src="https://github.com/user-attachments/assets/2a83025d-a263-44ab-9839-0efcc186dfe7">
+
+<img width="1174" alt="image" src="https://github.com/user-attachments/assets/ca7231c9-2ea4-43be-8648-baddc140f222">
+
+<img width="1317" alt="image" src="https://github.com/user-attachments/assets/3994ec75-7589-4d73-9c81-24aae47a7746">
+
+当然也支持右键加解密
+
+<img width="1121" alt="image" src="https://github.com/user-attachments/assets/a4606b1c-82db-4134-abc8-b64a4e7fa390">
+
+点击后会 加密
+
+<img width="1218" alt="image" src="https://github.com/user-attachments/assets/ba98456d-f3f8-4db3-9c0d-ebc071c02123">
+
+
+
