@@ -70,6 +70,6 @@ def run():
 run()
 
 #调试
-#header = {"host":"127.0.0.1"}
+#header = ["POST / HTTP/1.1","host: 127.0.0.1"]
 #body = "1111"
 #print(xia_jie.xj_encode(0,header,body))
