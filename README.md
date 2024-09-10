@@ -41,5 +41,10 @@
 
 <img width="1218" alt="image" src="https://github.com/user-attachments/assets/ba98456d-f3f8-4db3-9c0d-ebc071c02123">
 
+正常使用的话，先拿一段 待加密or解密 的数据测试
+
+<img width="1045" alt="image" src="https://github.com/user-attachments/assets/8feda7bc-c128-4282-b066-3f2b20422ac1">
+
+测试通过在注释掉，在运行run方法
 
 
