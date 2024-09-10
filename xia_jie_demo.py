@@ -2,10 +2,7 @@
 # coding:utf-8
 from http.server import HTTPServer, BaseHTTPRequestHandler
 import base64
-from Crypto.Cipher import AES
-import re,urllib.parse
-import random
-from urllib.parse import quote
+import re
 
 #************⬇不要动这里⬇****************
 class Resquest(BaseHTTPRequestHandler):
